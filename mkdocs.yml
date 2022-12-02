@@ -23,6 +23,7 @@ nav:
   - Metrics: metrics.md
   - Subscriptions: subscriptions.md
   - Triggered: triggered.md
+  - API: api.md
   - Feedback: feedback.md
 extra:
   social:

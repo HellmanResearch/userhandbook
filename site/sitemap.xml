@@ -2,27 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.alert.hellman.team/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.alert.hellman.team/api/</loc>
+         <lastmod>2022-12-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.alert.hellman.team/feedback/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.alert.hellman.team/metrics/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.alert.hellman.team/subscriptions/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.alert.hellman.team/triggered/</loc>
-         <lastmod>2022-12-01</lastmod>
+         <lastmod>2022-12-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
